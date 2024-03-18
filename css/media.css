@@ -1,0 +1,13 @@
+@media (max-width:1199px) and (min-width:992px) {
+
+    .header-bottom .inner-bottom .header-bottom-left span a{
+        display: none;
+    }
+    .header-bottom .inner-bottom .header-bottom-left .search{
+        /* border: 1px solid #a73131 !important; */
+        border-left: block;
+    }
+    .header-bottom .inner-bottom .header-bottom-right{
+        padding-left: 0px;
+    }
+}
